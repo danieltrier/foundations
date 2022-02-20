@@ -1,0 +1,12 @@
+h1 {
+  color: mediumspringgreen;
+}
+body {
+  background-color: ghostwhite;
+  font-family: Roboto;
+}
+.images {
+  border-radius: 15px 50px 30px;
+}
+
+@import url("https://fonts.googleapis.com/css?family=Butterfly+Kids|Roboto");
