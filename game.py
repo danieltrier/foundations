@@ -2,7 +2,7 @@ import random
 
 while True:
   player_number = int(input("Whats your number?"))
-  random_number = random.randint(1,101)
+  random_number = random.randint(1,100)
   if player_number == random_number:
     print("it is a tie")
   elif player_number > random_number:
@@ -13,7 +13,9 @@ while True:
   if user_input == "NO":
     break
   else:
-      continue
+    continue
+  
 
+  a = "b"
   
 
